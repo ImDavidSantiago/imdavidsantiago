@@ -2,7 +2,7 @@
 
 ### Systems Engineer · .NET & AI · Security Enthusiast
 
-Desarrollador full‑stack especializado en C#/.NET, con maestría en seguridad informática y pasión por la IA y las criptomonedas. Mi misión es construir soluciones resilientes, seguras y escalables que automaticen procesos críticos.
+Desarrollador full‑stack especializado en C#/.NET, con maestría en seguridad informática y pasión por la IA. Mi misión es construir soluciones resilientes, seguras y escalables que automaticen procesos críticos.
 
 ---
 
