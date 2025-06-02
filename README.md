@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hola, soy **David Santiago**
 
-<!--
-**ImDavidSantiago/imdavidsantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Systems Engineer · .NET & AI · Security Enthusiast
 
-Here are some ideas to get you started:
+Desarrollador full‑stack especializado en C#/.NET, con maestría en seguridad informática y pasión por la IA y las criptomonedas. Mi misión es construir soluciones resilientes, seguras y escalables que automaticen procesos críticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About me in C\#
+
+```csharp
+using System;
+
+// Declaración con constructor primario (C# 14)
+public record DavidSantiago(string Name, bool Researcher, bool Developer, string[] Languages);
+
+// Clase estática con método de extensión
+public static class DavidSantiagoExtensions
+{
+    public static void SayHi(this DavidSantiago ds) =>
+        Console.WriteLine($"Soy {ds.Name}. Visita mi sitio imdavidsantiago.dev");
+}
+
+// Código de arranque con top‑level statements (C# 14)
+var me = new DavidSantiago(
+    "David Santiago",
+    true,
+    true,
+    new[] { "en_US", "es_MX" }
+);
+me.SayHi();
+```
+
+---
+
+## 📫 Contacto
+
+[imdavidsantiago.dev](https://imdavidsantiago.dev) · [LinkedIn](https://www.linkedin.com/in/imdavidsantiago) · [@imdavidsantiago](https://twitter.com/imdavidsantiago)
+
+---
+
+> *“Code is poetry when security and performance dance in harmony.”* — DS
